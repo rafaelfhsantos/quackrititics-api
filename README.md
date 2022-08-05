@@ -1,6 +1,4 @@
-# caps_m4_cap-felipe-05
-
-## Quackritcs API
+# Quackritcs API
 
 ## BASE URL
 
